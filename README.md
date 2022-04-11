@@ -1,6 +1,6 @@
 # iService
 
-RESTful API to do some basic CRUD of vehicles using Test-driven development (TDD).
+RESTful API to do some basic CRUD of vehicles using Test-Driven Development (TDD).
 
 ## Requirements
 
